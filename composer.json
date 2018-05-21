@@ -1,0 +1,12 @@
+{
+    "name": "kabir/sudocrypt",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kabir Goel",
+            "email": "kabirgoel.kg@gmail.com"
+        }
+    ],
+    "require": {}
+}
